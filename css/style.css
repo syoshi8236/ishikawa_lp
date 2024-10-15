@@ -760,7 +760,7 @@ p{
 }
 
 .interview-title{
-  width: 310px;
+  max-width: auto;
 }
 
 .interview-left{
