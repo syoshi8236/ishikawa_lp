@@ -748,11 +748,15 @@ p{
 }
 
 .left h3{
-  width: 310px;
+  width: 300px;
 }
 
 .left p{
   font-size: 0.9rem;
+}
+
+.theree img{
+  width: 30%;
 }
 
 .benefit-right{
@@ -760,7 +764,7 @@ p{
 }
 
 .interview-title{
-  max-width: auto;
+  width: 70%;
 }
 
 .interview-left{
