@@ -461,12 +461,13 @@ p{
 
 
   .step-wrapper{
-    width: 50%;
+    width: 60%;
     background-color: #F7F5ED;
     margin: 0 auto;
     text-align: center;
     padding: 20px;
     margin-top: 20px;
+    margin-bottom: 50px;
   }
 
 
@@ -511,7 +512,9 @@ p{
     display: flex;
     justify-content: center;
     padding: 10px;
+    box-sizing:border-box
   }
+
 
   .adress{
     padding-left: 10px;
@@ -623,6 +626,8 @@ p{
   }
 
 
+
+
   /*レスポンシブ*/
   @media(max-width:770px){
     .info-container,.benefit-container,.comment,.best,.tokyo-wrapper,.guidance{
@@ -693,6 +698,7 @@ p{
 .blueblock p{
   margin-left: 40px;
   font-size: 0.8rem;
+  line-height: 1.8rem;
 }
 
 .blueblock{
@@ -798,12 +804,12 @@ p{
 .tokyo{
   margin: 0 auto;
   margin-bottom: 20px;
-  width: 90%;
+  width: auto;
   padding:10px 20px 20px 20px;
   border-radius: 0%;
 }
 
-.step-wrapper,.accordion,.tokyo{
+.step-wrapper,.accordion{
   width: 90%;
 }
 
