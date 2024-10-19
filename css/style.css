@@ -755,12 +755,16 @@ p{
   font-size: 0.9rem;
 }
 
+.theree{
+  align-items: center;
+}
+
 .theree img{
   width: 40%;
 }
 
-.theree{
-  align-items: center;
+.theree h2{
+  text-align: center;
 }
 
 .benefit-right{
